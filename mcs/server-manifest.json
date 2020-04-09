@@ -1,0 +1,151 @@
+{
+  "name": "ServerClient",
+  "author": "Zycdojar~Zycddj",
+  "version": "1.0",
+  "description": "Londj服务器的精华",
+  "fileApi": "http://files.cityswind.cn/mcs",
+  "files": [
+    {
+      "path": "config/codechicken/supporters.json",
+      "hash": "6442c114dcb278ed10d7bdb4797f9c73d0f48d81"
+    },
+    {
+      "path": "config/codechicken/supporters.marker",
+      "hash": "d6c52957565c80efa8bb0152296ba4a8a40a8e43"
+    },
+    {
+      "path": "config/codechickenlib.cfg",
+      "hash": "0f8d9d5c583e9a8262830117a558cb2728d86c48"
+    },
+    {
+      "path": "config/CustomNpcs.cfg",
+      "hash": "0dd18d2d3dfe8c423223bda682df958ec91d79b2"
+    },
+    {
+      "path": "config/flansmod.cfg",
+      "hash": "8c7afc8a4a656680bb42bd4cb40358a7ed70bace"
+    },
+    {
+      "path": "config/flansmodapocalypse.cfg",
+      "hash": "cf227fcdf1b564b233d4bc7381fd899154c4db8b"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "04eb57dfcf4a5780ef45adb2f29db33cd9a91acd"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "77694a92f84b4b6f23c399826f9b107ebb9cd4a7"
+    },
+    {
+      "path": "config/ftblib.cfg",
+      "hash": "dd191372de28bae507fd8dab862a67468d486d85"
+    },
+    {
+      "path": "config/ftbquests/normal/chapters/index.nbt",
+      "hash": "b401f76966b69dadb5307bc7d4d3d62dd2fbcb23"
+    },
+    {
+      "path": "config/ftbquests/normal/file.nbt",
+      "hash": "aceeb1751618ab33ebe02f4895625232418872af"
+    },
+    {
+      "path": "config/ftbquests/normal/reward_tables/index.nbt",
+      "hash": "b401f76966b69dadb5307bc7d4d3d62dd2fbcb23"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "fb332aa596c1a9a326d53b392f94ffeba3725ec2"
+    },
+    {
+      "path": "customnpcs/assets/customnpcs/sounds.json",
+      "hash": "1bd8ce28f3075c8699068a4628ebd664915b4a1a"
+    },
+    {
+      "path": "Flan/Mecha Parts-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "013bbf4342e57bc7564eab650d882771eb91a73e"
+    },
+    {
+      "path": "Flan/Modern Warfare-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "7f55e71bdca6542ed14ab3267bc7bf54bb605414"
+    },
+    {
+      "path": "Flan/Nerf-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "afe05c9742073b574764edb34c023e3e621f837a"
+    },
+    {
+      "path": "Flan/Simple Parts-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "3bd27532a0a6e9eb55168607a2350513540717ee"
+    },
+    {
+      "path": "Flan/Titan-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "b5c63c825b969b9f089b619d50e5e691fa9977c1"
+    },
+    {
+      "path": "Flan/WW2-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "4d1c2dcf6bacc4fc1e856b334f9fde04f116395b"
+    },
+    {
+      "path": "Flan/Ye Olde-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "cc48a212391e70b653200fd2e16cd38dc8a77be0"
+    },
+    {
+      "path": "Flan/Zombie-Content Pack-1.12.2-5.5.2.jar",
+      "hash": "3603abc3911e7ed4852e5bada51733ee155ed71e"
+    },
+    {
+      "path": "local/client/ftblib.cfg",
+      "hash": "9b6f050ee31d370810c102827855c1862f936234"
+    },
+    {
+      "path": "local/client/sidebar_buttons.json",
+      "hash": "6f3c509c9e3a62c62ebde76f0b0fa8f2a931ca71"
+    },
+    {
+      "path": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar.disabled",
+      "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
+    },
+    {
+      "path": "mods/CustomNPCs_1.12.2(30Jan19).jar",
+      "hash": "08601eaffadf83fcf0bd57ded252fc3266e13742"
+    },
+    {
+      "path": "mods/Flan\u0027s Mod-1.12.2-5.5.2.jar",
+      "hash": "547a54b8d731e0867d2971db030084f062229ea2"
+    },
+    {
+      "path": "mods/FTBLib-5.4.4.5.jar",
+      "hash": "739da870868234cd4d1edd8f65089e6c68633711"
+    },
+    {
+      "path": "mods/FTBQuests-1.8.0.237.jar",
+      "hash": "6b844e001339535cb820072207b638b6e908a13e"
+    },
+    {
+      "path": "mods/ItemFilters-1.0.3.12.jar",
+      "hash": "2cf5299329443cde00b9d43027949bc1aba11597"
+    },
+    {
+      "path": "mods/【mod】CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+      "hash": "1ead040eeee13c474d448f976363778e2918a7d0"
+    },
+    {
+      "path": "options.txt",
+      "hash": "0299b2b16c0ba32eec30827e30be24be148aa843"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "cc2df49e36c78f8f8baa5fa846c050b1bffb2512"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2825"
+    }
+  ]
+}
