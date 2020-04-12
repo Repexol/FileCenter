@@ -1,0 +1,83 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name mg-37
+ShortName mg37
+
+
+// Visuals
+Model WARAGE.mg37
+ModelScale 0.55
+Colour 255 255 255
+Icon mg37
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.mg37
+ModelScale 0.55
+Texture mg37
+DeployedModel None
+
+
+//Damage
+Damage 16
+
+
+//Ammo
+Ammo mgAmmo
+BulletSpeed 20.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments flanMWACOG flanMW4xScope flanMWFlashlight flanMWForegrip flanMWRedDot flanMWSilencer flanMWBurstFire dwLpmAimpointSight  dwLpmAssaultLight dwLpmHoloSight dwLpmAssaultGrip dwLpmRedDotSight dwSmcSharedSuppressor
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 4
+Mode FullAuto
+Recoil 2
+ReloadTime 80
+ShootDelay 2
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound mgShoot
+ReloadSound mgReload
+
+//------------------------------------------------

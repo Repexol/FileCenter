@@ -1,0 +1,40 @@
+﻿//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name ss2 Ac2
+ShortName ss2ac2
+
+
+// Visuals
+Model WARAGE.ss2ac2
+Colour 255 255 255
+Icon ss2ac2
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Boots
+
+
+//Visuals
+Model WARAGE.ss2ac2
+ArmourTexture ss2ac2
+
+
+//Armor Settings
+Defence 0
+
+
+//Helmet Settings
+
+//------------------------------------------------

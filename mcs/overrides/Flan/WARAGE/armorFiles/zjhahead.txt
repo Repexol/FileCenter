@@ -1,0 +1,41 @@
+﻿//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name zjhA Head
+ShortName zjhahead
+
+
+// Visuals
+Model WARAGE.zjhahead
+Colour 255 255 255
+Icon zjhahead
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Head
+
+
+//Visuals
+Model WARAGE.zjhahead
+ArmourTexture zjhahead
+
+
+//Armor Settings
+Defence 0.2
+KnockbackModifier 1.2
+
+
+//Helmet Settings
+
+//------------------------------------------------

@@ -1,0 +1,84 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name M156
+ShortName M156
+
+
+// Visuals
+Model WARAGE.M156
+ModelScale 0.5
+Colour 255 255 255
+Icon M156
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.M156
+ModelScale 0.5
+Texture M156
+DeployedModel None
+
+
+//Damage
+Damage 20
+
+
+//Ammo
+Ammo M156Ammo
+BulletSpeed 15.0
+OneHanded true
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments aco flanMWACOG flanMW4xScope flanMWFlashlight flanMWRedDot flanMWSilencer
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 3
+Mode FullAuto
+Recoil 5
+ReloadTime 25
+ShootDelay 5
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound M156
+ReloadSound hgReload
+
+//------------------------------------------------

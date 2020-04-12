@@ -1,0 +1,86 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name ma-41
+ShortName ma41
+
+
+// Visuals
+Model WARAGE.ma41
+ModelScale 0.55
+Colour 255 255 255
+Icon ma41
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.ma41
+ModelScale 0.55
+Texture ma41
+DeployedModel None
+Paintjob ma41y ma41y
+Paintjob ma41g ma41g
+Paintjob ma41w ma41w
+
+
+//Damage
+Damage 14
+
+
+//Ammo
+Ammo maAmmo
+BulletSpeed 30.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments aco flanMWACOG flanMW4xScope flanMWFlashlight flanMWForegrip flanMWRedDot flanMWSilencer dwLpmAimpointSight  dwLpmAssaultLight dwLpmHoloSight dwLpmAssaultGrip dwLpmRedDotSight dwSmcSharedSuppressor
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 3
+Mode FullAuto
+Recoil 2
+ReloadTime 40
+ShootDelay 2
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound MAShoot
+ReloadSound MAReload
+
+//------------------------------------------------

@@ -1,0 +1,42 @@
+﻿//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name zj1 Body
+ShortName zj1body
+
+
+// Visuals
+Model WARAGE.zj1body
+Colour 255 255 255
+Icon zj1body
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Body
+
+
+//Visuals
+Model WARAGE.zj1body
+ArmourTexture zj1body
+
+
+//Armor Settings
+Defence 0.2
+MoveSpeedModifier 1.5
+KnockbackModifier 0.7
+
+
+//Helmet Settings
+
+//------------------------------------------------

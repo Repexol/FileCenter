@@ -1,0 +1,83 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name vx26
+ShortName vx26
+
+
+// Visuals
+Model WARAGE.vx26
+ModelScale 0.55
+Colour 255 255 255
+Icon vx26
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.vx26
+ModelScale 0.55
+Texture vx26
+DeployedModel None
+
+
+//Damage
+Damage 8
+
+
+//Ammo
+Ammo vx26Ammo
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments flanMWSilencer flanMWRedDot flanMWACOG flanMW4xScope flanMWForegrip flanMWFlashlight flanMWSingleFire flanMWBurstFire flanMWAutoFire
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 3
+Mode FullAuto
+Recoil 1
+ReloadTime 70
+ShootDelay 1
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound vxShoot
+ReloadSound vxReload
+
+//------------------------------------------------

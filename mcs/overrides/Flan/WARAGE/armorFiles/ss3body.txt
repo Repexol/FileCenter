@@ -1,0 +1,42 @@
+﻿//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name ss3 Body
+ShortName ss3body
+
+
+// Visuals
+Model WARAGE.ss3body
+Colour 255 255 255
+Icon ss3body
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Body
+
+
+//Visuals
+Model WARAGE.ss3body
+ArmourTexture ss3body
+
+
+//Armor Settings
+Defence 0.3
+MoveSpeedModifier 1.2
+KnockbackModifier 1.2
+
+
+//Helmet Settings
+
+//------------------------------------------------

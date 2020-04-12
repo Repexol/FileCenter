@@ -1,0 +1,84 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name SY-2
+ShortName SY2
+
+
+// Visuals
+Model WARAGE.SY2
+ModelScale 0.6
+Colour 255 255 255
+Icon SY2
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.SY2
+ModelScale 0.6
+Texture SY2
+DeployedModel None
+
+
+//Damage
+Damage 30
+
+
+//Ammo
+Ammo SY2Ammo
+NumBullets 15
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments flanMWACOG flanMW4xScope flanMWRedDot flanMWSilencer
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments True
+AllowGripAttachments False
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 12
+Mode FullAuto
+Recoil 7
+ReloadTime 55
+ShootDelay 12
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound SY2
+ReloadSound sgReload
+
+//------------------------------------------------

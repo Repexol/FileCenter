@@ -1,0 +1,84 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name sg-55
+ShortName sg55
+
+
+// Visuals
+Model WARAGE.sg55
+ModelScale 0.55
+Colour 255 255 255
+Icon sg55
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.sg55
+ModelScale 0.55
+Texture sg55
+DeployedModel None
+
+
+//Damage
+Damage 8
+
+
+//Ammo
+Ammo sgAmmo
+NumBullets 8
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments flanMWACOG flanMW4xScope flanMWRedDot flanMWSilencer
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments True
+AllowGripAttachments False
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 10
+Mode FullAuto
+Recoil 5
+ReloadTime 40
+ShootDelay 8
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound sgShoot
+ReloadSound sgReload
+
+//------------------------------------------------

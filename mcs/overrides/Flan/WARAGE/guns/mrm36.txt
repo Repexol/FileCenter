@@ -1,0 +1,84 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name mrm-36
+ShortName mrm36
+
+
+// Visuals
+Model WARAGE.mrm36
+ModelScale 0.55
+Colour 255 255 255
+Icon mrm36
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.mrm36
+ModelScale 0.55
+Texture mrm36
+DeployedModel None
+
+
+//Damage
+Damage 100
+
+
+//Ammo
+Ammo mrmAmmo
+NumBullets 1
+BulletSpeed 10.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments False
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 1
+Mode FullAuto
+MoveSpeedModifier 0.4
+Recoil 1
+ReloadTime 80
+ShootDelay 10
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound mrmShoot
+ReloadSound mrmReload
+
+//------------------------------------------------

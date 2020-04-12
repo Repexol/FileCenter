@@ -1,0 +1,83 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name EMC3
+ShortName EMC3
+
+
+// Visuals
+Model WARAGE.EMC3
+ModelScale 0.4
+Colour 255 255 255
+Icon EMC3
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.EMC3
+ModelScale 0.4
+Texture EMC3
+DeployedModel None
+
+
+//Damage
+Damage 10
+
+
+//Ammo
+Ammo EMC3Ammo
+BulletSpeed 30.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments aco flanMWACOG flanMW4xScope flanMWFlashlight flanMWForegrip flanMWRedDot flanMWSilencer dwLpmAimpointSight  dwLpmAssaultLight dwLpmHoloSight dwLpmAssaultGrip dwLpmRedDotSight dwSmcSharedSuppressor
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments True
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 1
+Mode FullAuto
+Recoil 0
+ReloadTime 40
+ShootDelay 1
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound EMC3
+ReloadSound mcReload
+
+//------------------------------------------------

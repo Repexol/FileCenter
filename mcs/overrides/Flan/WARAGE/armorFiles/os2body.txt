@@ -1,0 +1,40 @@
+﻿//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name os2 Body
+ShortName os2body
+
+
+// Visuals
+Model WARAGE.os2body
+Colour 255 255 255
+Icon os2body
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Body
+
+
+//Visuals
+Model WARAGE.os2body
+ArmourTexture os2body
+
+
+//Armor Settings
+Defence 0.2
+
+
+//Helmet Settings
+
+//------------------------------------------------

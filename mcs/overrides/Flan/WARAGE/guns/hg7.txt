@@ -1,0 +1,84 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.2.2.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name hg-7
+ShortName hg7
+
+
+// Visuals
+Model WARAGE.hg7
+ModelScale 0.75
+Colour 255 255 255
+Icon hg7
+
+
+// Recipe
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+
+//Visual
+Model WARAGE.hg7
+ModelScale 0.65
+Texture hg7
+DeployedModel None
+
+
+//Damage
+Damage 10
+
+
+//Ammo
+Ammo hgAmmo
+BulletSpeed 15.0
+OneHanded true
+
+
+//Attachments
+AllowAllAttachments False
+AllowAttachments aco flanMWACOG flanMW4xScope flanMWFlashlight flanMWRedDot flanMWSilencer
+AllowBarrelAttachments True
+AllowScopeAttachments True
+AllowStockAttachments False
+AllowGripAttachments True
+NumGenericAttachmentSlots 1
+
+
+//Weapon Settings
+Accuracy 3
+Mode FullAuto
+Recoil 3
+ReloadTime 25
+ShootDelay 5
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound hgShoot
+ReloadSound hgReload
+
+//------------------------------------------------
